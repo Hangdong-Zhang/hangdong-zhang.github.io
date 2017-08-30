@@ -2,8 +2,8 @@
 layout: post
 title: Python学习笔记 - 内置函数
 category: 技术
-tags: jQuery
-keywords: jQuery
+tags: Python
+keywords: Python
 description: 
 ---
 
