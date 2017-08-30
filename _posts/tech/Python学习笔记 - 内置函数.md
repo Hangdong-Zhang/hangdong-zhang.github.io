@@ -1,3 +1,12 @@
+---
+layout: post
+title: Python学习笔记 - 内置函数
+category: 技术
+tags: jQuery
+keywords: jQuery
+description: 
+---
+
 ## Map函数
 
 __map__(fx, [1, 2, 3, 4]) = [fx(1), fx(2), fx(3), fx(4)]
